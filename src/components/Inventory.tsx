@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Package, Edit2, X, Check } from 'lucide-react';
 import { Item } from '../types';
 
